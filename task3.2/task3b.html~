@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Task3b</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="description"  content="EPAM TASK3 Tables">
+    	 
+<style>
+   .select {
+   height: 190px;
+   width: 350px;
+   vertical-align: top;
+   padding-top: 10px;
+   border-left: gray 1.5px solid;
+   border-top: gray 1.5px solid;
+   
+     }
+   .ul{
+width:200px;
+width: 350px;
+height: 190px;
+background: #aaa;
+   }
+   
+   .table {
+   width: 800px;
+   border: 0   
+   }
+  </style> 
+
+ <table class="table">
+   
+
+    <tr>
+      <td class="ul">
+      
+      <ul>
+<li> <a href="www.yandex.ru"> Page 1</a> </li> 
+<li> <a href="www.google.ru"> Page 2</a></li>     
+      
+      </ul>
+      
+      </td>
+      <td class= "select">
+         Page 1 
+      </td>
+    </tr>
+
+  </table>
+
+    
+     </body>
+</html>
